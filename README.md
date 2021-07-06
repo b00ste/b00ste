@@ -7,7 +7,6 @@
 - 🔭 I am working on my first project: "Unstoppable information"!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers, we can achieve great things!
-- 🥅 2020 Goals: Push my project to new highs
 - ⚡ Fun fact: I love to read Dostoevsky
 
 <br />
