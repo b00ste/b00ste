@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @b00ste.
+- 👋 Hi, I’m Daniel, aka. b00ste.
 - 👀 I’m interested in Lukso and Ethereum.
-- 🌱 I’m currently learning CSS animations.
-- 💞️ I’m looking to collaborate on DAPPs.
+- 🌱 I’m currently perfectioning my skills as Smart Contract Engineer.
+- 💞️ I’m looking for nice and meaningful collaborations.
 - 📫 How to reach me https://twitter.com/b00ste_lyx.
 
 <!---
