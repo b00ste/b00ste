@@ -21,8 +21,4 @@ I build developer workspaces, creative tools and on-chain systems.
 
 [Kethalia](https://github.com/kethalia) · [Chillwhales](https://github.com/chillwhales)
 
-## Team participation
-
-I’m also part of the [Phlox Labs](https://github.com/phlox-labs) team, a separate team working on LUKSO DeFi and bridge tooling.
-
 Open to thoughtful collaborations. Find me on [X](https://x.com/b00ste_lyx).
